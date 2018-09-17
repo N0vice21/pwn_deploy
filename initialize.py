@@ -13,7 +13,7 @@ def getFileList():
     filelist = []
     for filename in os.listdir(PWN_BIN_PATH):
         filelist.append(filename)
-    filelist.reverse()
+    filelist.sort()
     return filelist
 
 def generateFlags(filelist):
