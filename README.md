@@ -6,6 +6,8 @@
 
 [README_CN.md](https://github.com/giantbranch/pwn_deploy/blob/master/README_CN.md)
 
+This is not safe, please use [https://github.com/giantbranch/pwn_deploy_chroot](https://github.com/giantbranch/pwn_deploy_chroot)
+
 ## Before
 
 ```
