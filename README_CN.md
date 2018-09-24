@@ -2,6 +2,8 @@
 
 > 可以方便地部署多个pwn题到一个docker容器中
 
+这个部署方式并不太安全，请使用： [https://github.com/giantbranch/pwn_deploy_chroot](https://github.com/giantbranch/pwn_deploy_chroot)
+
 ## 前置
 
 ```
